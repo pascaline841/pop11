@@ -1,5 +1,4 @@
-# Co-construction d'une vision produit et gestion des priorités
-
+<h1 align="center">Co-construction d'une vision produit et gestion des priorités</h1>
 En tant que nouveau Product Owner chez AutoClaimsTech, j'ai été chargé de redéfinir la vision produit et d'optimiser la gestion des priorités pour le logiciel de gestion des sinistres automobiles. Ce projet m'a permis de démontrer mes compétences en planification stratégique, en gestion des parties prenantes, et en développement d'outils de priorisation.
 
 ## 🎯 Problématiques soulevées
